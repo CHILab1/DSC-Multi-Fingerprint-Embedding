@@ -10,6 +10,6 @@ This final dataset consisted of 89373 molecules, and was separated into:
 <li>Validation set (7597molecules)</li>
 
   
-The pickle files of the training, test and validation set can be downloaded at the following link
-
+The pickle files of the training, test and validation set can be downloaded at the following link: <br>
+  <url>https://cloud.unipa.it/index.php/s/hYItMSqqH4qpFQE</url>
 </p>
