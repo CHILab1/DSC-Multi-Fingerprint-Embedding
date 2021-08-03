@@ -1,4 +1,4 @@
-# A deep convolutional neural network exploiting multi-fingerprint embeddings for virtual screeningon multiple kinase targets
+# A deep convolutional neural network exploiting multi-fingerprint embeddings for virtual screening on multiple kinase targets
 
 <h4>This repository contains the trained model and dataset used in the work we are presenting.</h4>
 
